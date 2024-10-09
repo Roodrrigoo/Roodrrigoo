@@ -1,3 +1,7 @@
+
+# Hi im Rodrigo
+
+
 # 💫 About Me:
 I am a Computer Technology Engineer in my last semesters, with experience in Python programming, database management (MySQL), web development and swift programming. I stand out for my ability to work in a team, my perseverance, my proactivity and my ability to learn. I am interested in gaining experience in the software industry. Currently, I am looking for opportunities that allow me to apply and expand my knowledge. <br>
 
